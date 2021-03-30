@@ -46,7 +46,8 @@ int main() {
 	graphic->releaseInstance();
 	Sprite::releaseInstance();
 	Background::releaseInstance();
-
+	jhgvfhjfvjuhgfvuy
+		8ytguiyguigu
 
 	delete timer;
 
